@@ -9,4 +9,4 @@ Project 0 Getting Started
 
 ### WebGL 
 
-![WebGL support](images/WebGL.png)
+![WebGL support](images/webGL.png)
