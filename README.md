@@ -5,8 +5,8 @@ Project 0 Getting Started
 
 * Jingtao Huang 
   * [LinkedIn](https://www.linkedin.com/in/jingtaoh/), [personal website](https://www.jingtaoh.com/).
-* Tested on: MacOS Monterey, i7 @ 4.2GHz 40GB, Radeon Pro 580 8GB
 
 ### WebGL 
+* Tested on: MacOS Monterey, i7 @ 4.2GHz 40GB, Radeon Pro 580 8GB
 
 ![WebGL support](images/webGL.png)
